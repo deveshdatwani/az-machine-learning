@@ -1,7 +1,7 @@
 This directory contains machine learning examples solved in Python from the book
 'Introduction to Statistical Learning'
 
-### orderwise solutions of 
+orde-wise solutions  
 
 1. linear regression
 2. classification
